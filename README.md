@@ -1,1 +1,1 @@
-https://colab.research.google.com/github.com/ogut77/DataScience/PythonTutorial.ipynb
+https://colab.research.google.com/github.com/ogut77/DataScience/blob/main/PythonTutorial.ipynb
