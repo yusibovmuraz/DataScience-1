@@ -13,7 +13,7 @@ Python Tutorial Version 3
 
 Homework 1
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://github.com/ogut77/DataScience/blob/main/Homework1.ipynb ]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Homework1.ipynb ]
 
 Data Processing 1
 
